@@ -1,10 +1,9 @@
 # Hi, I'm Etienobong Edo 👋
 
-As a Business Intelligence Analyst, I deconstruct complex business challenges into data-driven solutions. Whether it's uncovering growth levers in a SaaS revenue model, identifying key performance drivers in sports analytics, or building dashboards to track organizational health, I use the necessary tools to find the signal in the noise.
+A Business Intelligence Analyst with a rigorous focus on data integrity and a proven ability to translate business challenges into data-driven solutions. Experienced in building robust data models and intuitive dashboards that drive decision-making for business operations.
 
 - 💡 Skilled in PostgreSQL, Excel, and Power BI for robust data analysis and visualization
-- 🤖 Integrating AI solutions into my workflow
-- 🛠️ Developing my data analytics journey through real-world projects at DataCamp
+- 🤖 AI-Augmented Productivity: Prompt Engineering, LLM Applications (GPT-4, Copilot) for workflow automation and rapid skill acquisition
 - 📊 Dedicated to making sense of data and delivering value to organizations
 - 🌱 Always eager to learn, grow, and explore innovative analytical solutions
 
